@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Ingeniería en Sistemas<br>Lenguajes de programación de los cuales tengo conocimiento:<br>✔️HTML<br>✔️CSS<br>✔️BOOTSTRAP<br>✔️PHP<br>✔️LARAVEL<br>Y los cuales estoy aprendiendo:<br>✔️JAVASCRIPT<br>✔️REACT<br>✔️PYTHON<br>
+Estudiante de Ingeniería en Sistemas<br>Lenguajes de programación de los cuales tengo conocimiento:<br>✔️HTML<br>✔️CSS<br>✔️BOOTSTRAP<br>✔️TAILWIND<br>✔️PHP<br>✔️LARAVEL<br>Y los cuales estoy aprendiendo:<br>✔️JAVASCRIPT<br>✔️REACT<br>✔️PYTHON<br>
 ✔️DJANGO<br>Bases de datos que se manejar:<br>✔️MySql<br>✔️SqlServer<br>✔️Actualmente aprendiendo PostgreSQL<br>Y MongoDB<br>Trabajando constantemente en proyectos propios y en la creacion de mi portafolio
 
 
