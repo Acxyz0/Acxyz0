@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hola! soy Acxyz, mi nombre real es Alejandro, me apasiona el desarrollo web y es en lo que me estoy especializando.
 Estoy conociendo y aprendiendo sobre el desarrollo frontend, y mi objetivo es el backend e incluso ser desarrollador fullstack.
 
